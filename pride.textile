@@ -2,6 +2,12 @@
 title: Pride
 layout: blog
 ---
+
+<div id="container">
+
 h1(#prideh1). Join CTU at Pride 2015
 
 p=. !http://www.ctunet.com/events/text/Pride_560x471.png("CTU Pride")!:http://ctunet.com/pride 
+
+
+</div>
