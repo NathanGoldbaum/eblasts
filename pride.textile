@@ -11,3 +11,11 @@ p=. !http://www.ctunet.com/events/text/Pride_560x471.png("CTU Pride")!:http://ct
 
 
 </div>
+
+<style>
+h1#prideh1 {
+  color:#d2232a;
+  font-size:60px;
+  text-align:center;
+}
+</style>
