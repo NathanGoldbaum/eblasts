@@ -1,0 +1,6 @@
+---
+title:pride
+type: blog
+---
+h1 Join CTU at Pride 2015
+
